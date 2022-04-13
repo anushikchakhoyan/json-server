@@ -1,0 +1,23 @@
+{
+  "name": "magazine-website-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anush17/magazine-website-server.git"
+  },
+  "author": "Anush Chakhoyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anush17/magazine-website-server/issues"
+  },
+  "homepage": "https://github.com/Anush17/magazine-website-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
