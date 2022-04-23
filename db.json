@@ -210,50 +210,19 @@
   ],
   "privacy": [
     {
-      "title": "",
-      "desc": "Մենք շատ կարևորում ենք մեր այցելուների անձնական տեղեկատվության գաղտնիությունը: Այդ պատճառով մեր կողմից մշակվել է սույն քաղաքականությունը, որը կօգնի այցելուներին հասկանալ թե ինչպես ենք մեք հավաքագրում, օգտագործում, հաղորդում, բացահայտում և կիրառում անձնական տեղեկատվությունը: Ներքոնշյալ դրույթները ներկայացնում են մեր գաղտնիության քաղաքականությունը.\n"
-    },
-    {
-      "title": "Cookies and Local Storage",
-      "desc": "Magazine-ը, մնացած ինտերակտիվ վեբ կայքերի նման, կիրառում է «cookies»` փոքր ֆայլեր,\n որոնք պահվելով Ձեր համակարգչի կոշտ սկավառակում, մեզ հնարավորություն են տալիս ստուգել կայքով \n    Ձեր տեղաշարժի մասին տեղեկությունները` մեզ համար հնարավորություն ընձեռելով կայքը հսկել, գնահատել և բարելավել: \n    «Քուքիները» օգտագործվում են կայքի որոշ մասերում, ապահովելով դրանց աշխատանքը, \n    ինչպես նաև հեշտացնելու համար կայքի օգտագործումը այցելուների կողմից: Կայքի գործընկերներից որոշները նույնպես կարող են օգտագործել «քուքիներ»:"
-    },
-    {
-      "title": "Գաղտնիության քաղաքականություն",
-      "desc": "Տեղեկատվության հավաքագրման ժամանակ, կամ դրանից առաջ կնշվեն դրա նպատակները:\n Անձնական տեղեկատվությունը կհավաքագրվի և կօգտագործվի միմիայն մեր կողմից նշված կերպով կամ դրան համանման նպատակներով, բացառությամբ այն դեպքերի երբ ստացված է ներգրավված անձի համաձայնությունը, կամ պահանջված է ըստ օրենքի:\n Անձնական տեղեկատվությունը կպահպանվի միայն այնքան ժամանակ, որքան որ հարկավոր է վերոնշյալ նպատակներն իրագործելու համար:\n"
-    },
-    {
-      "title": "",
-      "desc": "Տեղեկատվությունը կհավաքագրվի միայն օրինական և արդար ուղիներով և, համապատասխան դեպքերում ներգրավված անձի իմացությամբ կամ համաձայնությամբ:\\n    Անձնական տեղեկատվությունը պետք է համապատասխանի այն նպատակներին, որին ծառայում է, և այդ նպատակների համար անհրաժեշտության սահմաններում պետք է լինի ճշգրիտ, ամբողջական և արդիական:\\n    Անձնական տեղեկատվությունը կպահպանվի կորստից կամ առևանգումից խելամիտ անվտանգության ապահովության միջոցառումներով, ինչպես նաև կպաշտպանվի չարձանագրված մուտքերից, բացահայտումից, կրկնօրինակումից, օգտագործումից կամ փոփոխությունից: \n Կայքի այցելուներին անմիջապես տեղյակ կպահվի անձնական տեղեկատվության ղեկավարման մասին մեր քաղաքականության և դրա կիրառումների մասին: \n\n"
-    },
-    {
-      "title": "Մեր պատասխանատվությունը տեղեկատվության ապահովության հարցում",
-      "desc": "Չարտոնագրված մուտքերի կանխման, ինրպես նաև տեղեկատվության ամբողջականության պահպանման և դրա ճիշտ օգտագործման համար կիրառվում են համապատասխան ֆիզիկական, էլեկտրոնային և վարչական գործառույթներ, որոնք կապահովեն առցանց հավաքագրված տեղեկատվության անվտանգության երաշխավորման միջոցները:"
-    },
-    {
-      "title": "Օրենք և իրավասություն",
-      "desc": "Այցելելով այս կայքը` Դուք և Magazine-ն համաձայնում եք, որ բոլոր հարցերը, կապված այս էջի այցելության և նրա օգտագործման հետ, կարգավորվում են ՀՀ օրենքներով և բանակցություններում չհարթված վեճերը ընդդատյա են ՀՀ դատական ատյաններին:\n"
-    },
-    {
-      "title": "Կայքի օգտագործման պայմանների փոփոխությունները",
-      "desc": "Magazine-ը կարող է խմբագրել իր կայքի օգտագործման սույն պայմանները առանց զգուշացման: Օգտվելով կայքից, դուք համաձայնվում եք ենթարկվել կայքի օգտագործման այս դրույթներին և պայմաններին:\n"
-    }
-  ],
-  "marquee": [
-    {
-      "time": "09:20",
-      "text": " Opinion: It's time to start talking about impeachment"
-    },
-    {
-      "time": "10:00",
-      "text": " Clinton aims to shore up Wisconsin with new TV ads"
-    },
-    {
-      "time": "10:15",
-      "text": "Trump signs tax bill before leaving for Mar-a-Lago"
-    },
-    {
-      "time": "10:40",
-      "text": "The Facebook Live stream that could presage TV"
+      "desc_1": "We hold the privacy of your personal information in the highest regard. That is why we have developed this policy to help visitors understand how we collect, use, report, disclose and use personal information. The following provisions represent our privacy policy",
+      "title_1": "Cookies and Local Storage",
+      "desc_2": "Magazine, like other interactive websites, uses cookies, small files that are stored on your computer's hard drive, allowing us to verify information about your site traffic, allowing us to monitor, evaluate, and improve the site. Cookies are used in certain parts of the site to ensure their operation as well as to facilitate the use of the site by visitors. Some of the site partners may also use cookies.",
+      "title_2": "Privacy policy",
+      "desc_3": "The purpose of the information will be stated during or before the collection of information. Personal information will be collected: used only in the manner indicated by us or for similar purposes, unless the consent of the person involved has been obtained or required by law. Personal information will be stored only for as long as is necessary to achieve the above purposes.",
+      "title_3": "",
+      "desc_4": "The information will be collected only in a lawful \"fair way\", with the knowledge or consent of the person involved. Personal information must be relevant to the purposes for which it is served; և must be accurate, complete, and up-to-date to the extent necessary. Personal information will be protected against loss or seizure by reasonable security measures, as well as by unauthorized access, disclosure, backup, use or alteration. Visitors to the site will be immediately informed of our privacy policy and its applications.",
+      "title_4": "Our responsibility for information security",
+      "desc_5": "Appropriate physical, electronic and administrative functions are used to prevent unauthorized access, as well as to maintain the integrity of the information and to use it properly, which will ensure the security of the information collected online.",
+      "title_5": "Law և Jurisdiction",
+      "desc_6": "By visiting this site, you and Magazine agree that all matters relating to the use of this page օգտագործման its use are governed by the laws of the Republic of Armenia and disputes that have not been settled in the negotiations are within the jurisdiction of the courts of the Republic of Armenia.",
+      "title_6": "Changes to the terms of use of the site",
+      "desc_7": "Magazine may edit these terms of use of its website without notice. By using the site, you agree to be bound by these terms and conditions of use of the site."
     }
   ]
 }
